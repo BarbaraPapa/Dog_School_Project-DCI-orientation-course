@@ -1,4 +1,4 @@
-# Dog School Web Site
+# Dog School [Web Site](https://barbarapapa.github.io/Dog_School_Project-DCI-orientation-course/)
 ---
 ## What I learned
 
