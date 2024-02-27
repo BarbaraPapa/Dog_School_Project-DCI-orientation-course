@@ -71,6 +71,7 @@ nav ul {
   margin-top: 130px;
   background-size: cover;
   background-position: top;
+  border-radius: 10px;
 }
 h1 {
   text-align: center;
@@ -139,17 +140,20 @@ h1 {
 }
 .cardContainer div {
   padding: 10px;
-  text-align: center;
   width: 25%;
+}
+
+.cardContainer p{
+  padding-top: 20px;
 }
 .cardContainer a {
   text-decoration: none;
   color: black;
 }
-.cardContainer h4:hover {
-  background-color: #e6b78c;
+.cardContainer a:hover {
+  color: green;
 }
-.cardContainer h4 {
+.cardContainer h3 {
   padding: 5px;
 }
 

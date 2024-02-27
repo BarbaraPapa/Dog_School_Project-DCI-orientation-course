@@ -6,12 +6,24 @@
     margin-left: 25%;
     margin-right: 25%;
   }
+
   .contactTitle {
     font-size: 35px;
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 50px;
   }
   
+
+  .contacts-container{
+    margin-bottom: 200px;
+  }
+
+  .contact h2{
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+
   .email {
     font-size: 2rem;
     text-decoration: none;
@@ -30,15 +42,13 @@
   }
   
   .contact img {
-    width: 5%;
+    width: 80px;
     padding: 10px;
+    margin-bottom: 50px;
   }
   .contact img:hover {
     background-color: rgb(14, 95, 5);
     border-radius: 50%;
   }
   
-  .contactFooter {
-    margin-top: 48px;
-  }
   
