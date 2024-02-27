@@ -1,6 +1,6 @@
-# Final project for Digital Career Institute (orientation course)
+# Dog School Web Site
 ---
-## What have we learned
+## What I learned
 
 ### HTML                            
 - Use of main TAGs
